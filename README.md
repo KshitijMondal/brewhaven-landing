@@ -85,7 +85,8 @@ Shadows: Unified hover lift effect
 
 ⭐ **Star if helpful!**  
 
-**Developer:** Kshitij Mondal  
+**Developer:** Kshitij Amitkumar Mondal  
+**Intern ID:** 7747  
 **Internship:** Navodita Front-End Development  
 **Completed:** January 29, 2026
 
