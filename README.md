@@ -66,7 +66,7 @@ Shadows: Unified hover lift effect
 ## 🏆 Lighthouse Scores (Real Audits)
 | Category | Desktop | Mobile |
 |----------|---------|--------|
-| Performance | **81** | **64** |
+| Performance | **82** | **57** |
 | Accessibility | **87** | **87** |
 | Best Practices | **100** ⭐ | **100** ⭐ |
 | SEO | **91** | **91** |
