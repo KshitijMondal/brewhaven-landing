@@ -3,6 +3,7 @@ Interactive responsive landing page for Brew Haven premium coffee subscription s
 # Brew Haven 🚀 Interactive Landing Page
 
 *Live Demo: https://kshitijmondal.github.io/brewhaven-landing/*
+*Trial Video: https://www.loom.com/share/55d8b322506844408f4095c0bcc63f96*
 
 Responsive single-page landing page for premium coffee subscription service. Features smooth animations, scroll-triggered reveals, modal popup, mobile hamburger menu, and unified hover interactions.
 
