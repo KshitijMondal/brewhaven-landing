@@ -70,4 +70,3 @@ Shadows: Unified hover lift effect
 📧 **Contact:** hello@brewhaven.com  
 📱 **Demo Video:** [Embed your Loom recording here]
 
-![Footer](https://via.placeholder.com/1200x100/1a0f0a/ccc?text=%C2%A92026+Brew+Haven)
