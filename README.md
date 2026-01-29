@@ -2,7 +2,7 @@
 Interactive responsive landing page for Brew Haven premium coffee subscription service. Vanilla HTML/CSS/JS with animations, modal, scroll effects. Built for Navodita Infotech front-end internship.
 # Brew Haven 🚀 Interactive Landing Page
 
-*Live Demo: https://kshitijmondal.github.io/brewhaven-landing/*
+*Live Demo: https://kshitijmondal.github.io/brewhaven-landing/*  
 *Trial Video: https://www.loom.com/share/55d8b322506844408f4095c0bcc63f96*
 
 Responsive single-page landing page for premium coffee subscription service. Features smooth animations, scroll-triggered reveals, modal popup, mobile hamburger menu, and unified hover interactions.
@@ -33,9 +33,9 @@ Google Fonts (Poppins) | Font Awesome 6 | Custom Logo
 3. Test interactions + responsive breakpoints
 
 ## 📂 File Structure
-├── index.html # Main landing page
-├── style.css # Styles & animations (420 lines)
-├── script.js # Interactions (85 lines)
+├── index.html # Main landing page  
+├── style.css # Styles & animations (420 lines)  
+├── script.js # Interactions (85 lines)  
 └── logo.png # Brand logo (local integration)
 
 ## 🎯 Mobile Testing
