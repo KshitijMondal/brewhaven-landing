@@ -1,0 +1,147 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Brew Haven - Premium Coffee Subscription</title>
+    <link rel="stylesheet" href="style.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+    />
+  </head>
+  <body>
+    <nav class="navbar">
+      <div class="nav-container">
+        <div class="nav-logo">
+          <img src="logo.png" alt="Brew Haven Logo" class="logo-img" />
+          <div class="logo-text">Brew Haven</div>
+        </div>
+        <ul class="nav-menu">
+          <li><a href="#home">Home</a></li>
+          <li><a href="#features">Features</a></li>
+          <li><a href="#pricing">Pricing</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+        <div class="hamburger">
+          <span></span>
+          <span></span>
+          <span></span>
+        </div>
+      </div>
+    </nav>
+
+    <section id="home" class="hero">
+      <div class="hero-content">
+        <h1 class="hero-title">Discover Your Perfect Brew</h1>
+        <p class="hero-subtitle">
+          Subscribe to premium coffee delivered fresh to your door. Artisan
+          roasts from around the world.
+        </p>
+        <button class="cta-button" id="ctaBtn">Get Started</button>
+      </div>
+    </section>
+
+    <section id="features" class="features">
+      <div class="container">
+        <h2 class="section-title">Why Choose Brew Haven?</h2>
+        <div class="features-grid">
+          <div class="feature-card">
+            <i class="fas fa-leaf"></i>
+            <h3>Organic Beans</h3>
+            <p>
+              100% organic, sustainably sourced coffee beans from ethical farms.
+            </p>
+          </div>
+          <div class="feature-card">
+            <i class="fas fa-truck"></i>
+            <h3>Fast Delivery</h3>
+            <p>Delivered fresh weekly, right to your doorstep anywhere.</p>
+          </div>
+          <div class="feature-card">
+            <i class="fas fa-palette"></i>
+            <h3>Custom Blends</h3>
+            <p>
+              Personalize your subscription with bold, medium, or light roasts.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="pricing" class="pricing">
+      <div class="container">
+        <h2 class="section-title">Simple Pricing</h2>
+        <div class="pricing-grid">
+          <div class="price-card">
+            <h3>Starter</h3>
+            <div class="price">$19<span>/mo</span></div>
+            <ul>
+              <li>4oz bag monthly</li>
+              <li>Basic customization</li>
+              <li>Standard shipping</li>
+            </ul>
+            <button class="price-btn">Choose Starter</button>
+          </div>
+          <div class="price-card popular">
+            <div class="popular-badge">Most Popular</div>
+            <h3>Pro</h3>
+            <div class="price">$39<span>/mo</span></div>
+            <ul>
+              <li>12oz bag monthly</li>
+              <li>Full customization</li>
+              <li>Priority shipping</li>
+            </ul>
+            <button class="price-btn">Choose Pro</button>
+          </div>
+          <div class="price-card">
+            <h3>Elite</h3>
+            <div class="price">$69<span>/mo</span></div>
+            <ul>
+              <li>2lb bag monthly</li>
+              <li>Exclusive blends</li>
+              <li>Express shipping</li>
+            </ul>
+            <button class="price-btn">Choose Elite</button>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="contact" class="contact">
+      <div class="container">
+        <h2 class="section-title">Ready to Brew?</h2>
+        <div class="contact-info">
+          <p><i class="fas fa-envelope"></i> hello@brewhaven.com</p>
+          <p><i class="fas fa-phone"></i> +91 98765 43210</p>
+          <p><i class="fas fa-map-marker-alt"></i> Pune, Maharashtra, India</p>
+        </div>
+        <form class="contact-form" id="contactForm">
+          <input type="email" placeholder="Enter your email" required />
+          <button type="submit">Subscribe Now</button>
+        </form>
+      </div>
+    </section>
+
+    <footer>
+      <div class="container">
+        <p>&copy; 2026 Brew Haven. All rights reserved.</p>
+      </div>
+    </footer>
+
+    <div class="modal" id="modal">
+      <div class="modal-content">
+        <span class="close">&times;</span>
+        <h2>Welcome to Brew Haven!</h2>
+        <p>Sign up today and get 20% off your first order.</p>
+        <button class="modal-btn">Claim Offer</button>
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
