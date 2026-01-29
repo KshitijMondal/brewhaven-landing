@@ -63,7 +63,16 @@ Shadows: Unified hover lift effect
 **Time:** 8 hours (2 days)  
 **Developer:** Kshitij Mondal  
 
-## 📈 Lighthouse Scores (Estimated)
+## 🏆 Lighthouse Scores (Real Audits)
+
+| Category | Desktop | Mobile |
+|----------|---------|--------|
+| Performance | **81** | **64** |
+| Accessibility | **87** | **87** |
+| Best Practices | **100** ⭐ | **100** ⭐ |
+| SEO | **91** | **91** |
+
+
 
 ---
 
