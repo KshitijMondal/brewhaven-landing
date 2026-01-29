@@ -46,7 +46,7 @@ Google Fonts (Poppins) | Font Awesome 6 | Custom Logo
 
 ## 🔗 Deployment
 **Live:** https://kshitijmondal.github.io/brewhaven-landing/
-**Netlify:** Drag folder to [netlify.com/drop](https://netlify.com/drop)
+**Netlify:** curious-hummingbird-eaa836.netlify.app
 
 ## 📱 Responsive Breakpoints
 768px: Mobile hamburger + stacked layouts
